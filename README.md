@@ -4,7 +4,7 @@ This project aims to demonstrate an application of the **Kalman Filter** in trac
 
 ## Sample Output
 
-![](output.mp4)
+![](assets/sample.mp4)
 
 ## Features
 - Object detection using YOLO (You Only Look Once)
