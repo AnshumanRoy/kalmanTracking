@@ -4,7 +4,11 @@ This project aims to demonstrate an application of the **Kalman Filter** in trac
 
 ## Sample Output
 
-![](assets/sample.mp4)
+
+
+https://github.com/AnshumanRoy/kalmanTracking/assets/56593553/68bc181d-78a1-4e2c-a020-6883f7b75085
+
+
 
 ## Features
 - Object detection using YOLO (You Only Look Once)
