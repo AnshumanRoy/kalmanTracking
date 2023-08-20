@@ -5,9 +5,9 @@ This project aims to demonstrate an application of the **Kalman Filter** in trac
 ## Sample Output
 
 ![image](https://github.com/AnshumanRoy/kalmanTracking/assets/56593553/65d8a304-9ab2-4d61-9c8e-ac1d9ea14537)
-🔴 Detected position from YOLO model
-🟢 Estimated position from Kalman Filter
-🔵 Predicted position from Kalman Filter
+-🔴 Detected position from YOLO model
+-🟢 Estimated position from Kalman Filter
+-🔵 Predicted position from Kalman Filter
 
 
 Still from the output video. To check the complete output video, view the output.mp4 file included in the repository.
