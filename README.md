@@ -10,7 +10,7 @@ This project aims to demonstrate an application of the **Kalman Filter** in trac
 - 🔵 Predicted position from Kalman Filter
 
 
-Still from the output video. To check the complete output video, view the output.mp4 file included in the repository.
+Still from the output video. To check the complete output video, view the **output.mp4** file included in the repository.
 
 ## Features
 - Object detection using YOLO (You Only Look Once)
@@ -31,9 +31,9 @@ For a complete theoretical explanantion, this [website](https://www.kalmanfilter
    git clone https://github.com/AnshumanRoy/kalmanTracking.git
    cd kalmanTracking
    
-3. Download the YOLO model files for the weights, the corresponding config files and the coco class names. These can be downloaded from the official yolo repository.
+3. Download the YOLO model files for the **weights**, the corresponding **config** files and the **coco class** names. These can be downloaded from the **official yolo repository**.
 
-4. Install the required Python packages from the requirements file.
+4. Install the required Python packages from the **requirements.txt** file.
 
    ```.sh
    pip install -r requirements.txt
@@ -57,7 +57,7 @@ For a complete theoretical explanantion, this [website](https://www.kalmanfilter
 
 ## Usage
     
-  Run the program to start tracking the vehicle in the input video. Press the 'q' key to exit the application.
+  Run the program to start tracking the vehicle in the input video. Press the **'q'** key to exit the application.
 
    ```.sh
    python main.py  
