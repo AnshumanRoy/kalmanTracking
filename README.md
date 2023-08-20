@@ -10,7 +10,7 @@ This project aims to demonstrate an application of the **Kalman Filter** in trac
 🔵 Predicted position from Kalman Filter
 
 
-Still from the output video. To check the complete output video, view the output.mp4 file included in the video.
+Still from the output video. To check the complete output video, view the output.mp4 file included in the repository.
 
 ## Features
 - Object detection using YOLO (You Only Look Once)
